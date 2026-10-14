@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: Img-mercedez-1392.jpg
+Ruta del archivo: C:\IA_Gpo3H_1392\VA_1392\P1-Act1-1392\img-original-1392\Img-mercedez-1392.jpg
+Formato por extension: .JPG
+Tamano en bytes: 130164
+Tamano en KB: 127.11
+Tamano en MB: 0.1241
+
+DIMENSIONES
+-----------
+Ancho: 640 pixeles
+Alto: 426 pixeles
+Resolucion: 640 x 426
+Total de pixeles: 272,640
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 86.11
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 60.61
+Verde (G): 97.64
+Rojo (R): 100.07
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
